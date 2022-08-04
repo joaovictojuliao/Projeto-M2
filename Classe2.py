@@ -11,11 +11,6 @@ class PesquisaSaude():
             idade=int(input("Digite a idade correta do entrevistado, lembrando precisa ser maior de idade: "))
         return idade
 
-    def idadeVerif(self, idade):
-        while (idade<18 or idade>140) and idade != 0:
-            idade=int(input("Digite a idade correta do entrevistado, lembrando precisa ser maior de idade: "))
-        return idade
-
     def generos(self):
         genero = int(input('Digite o número que corresponde ao seu gênero: '
                 '\n1- Masculino\n2- Feminino\n3- Binário\n4- Outro\nDigite aqui: '))
