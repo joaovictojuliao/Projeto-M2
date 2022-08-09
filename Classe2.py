@@ -33,6 +33,17 @@ class PesquisaSaude():
             self.genero='Feminino '
             return self.genero
         elif genero==3:
+                def dataHora(self):
+        dataHoraCadastrada = date.datetime.now()
+        dataHoraCadastrada = dataHoraCadastrada.strftime('%d/%m/%Y %H:%M:%S')
+        return dataHoraCadastrada
+
+    def arquivoCsv(self, dict):
+        df = pd.DataFrame(dict)
+        df.to_csv("perguntas.csv", index = False, sep ='/')
+        print('****Foi criado um arquivo (perguntas.csv) com as informações obtidas!****' 
+        '\n- - - - - - - - Obrigado por participar da nossa pesquisa - - - - - - - -\n\n\n')
+
             self.genero='Binario '
             return self.genero
         elif genero==4:
