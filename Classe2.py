@@ -100,7 +100,7 @@ class PesquisaSaude():
 
     def arquivoCsv(self, dict):
         df = pd.DataFrame(dict)
-        df.to_csv("perguntas.csv", index = False, sep ='/')
+        df.to_csv("perguntas.csv", index = False, sep =',')
         print('****Foi criado um arquivo (perguntas.csv) com as informações obtidas!****' 
         '\n- - - - - - - - Obrigado por participar da nossa pesquisa - - - - - - - -\n\n\n')
     
