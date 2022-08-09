@@ -11,10 +11,10 @@ A pesquisa que será realizada deve conter 4 perguntas que podem ser responsidas
 
 Pensando no momento atual em que estamos vivendo, a pandemia levou muitas pessoas a descuidarem da saude mental, o isolamento é um fator importante a ser considerado, pensando nisso elaboramos uma pesquisa com as quatro questões a seguir para
 
-1- Você acha importante cuidar da saúde mental?
-2- Você sabe qual a utilidade do acompanhamento psicológico?
-3- Você sente a necessidade de ter acompanhamento psicológico?
-4- Você possui acompanhamento psicológico?
+1-Você acha importante cuidar da saúde mental?
+2-Você sabe qual a utilidade do acompanhamento psicológico?
+3-Você sente a necessidade de ter acompanhamento psicológico?
+4-Você possui acompanhamento psicológico?
 
 O intuito dessa pesquisa é ter uma noção numerica de como as pessoas lidam com seu psicológio e entender através desses dados como as pessoas estão nesse momento.
 
